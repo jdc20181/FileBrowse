@@ -11,15 +11,16 @@ Written in VB.NET - Compatible with all Windows Xp and newer Window's OS version
 #Features!
 
 
-> Completely Open Source 
+>  - Completely Open Source 
 
 Proudly <3 MIT Licensed!
 
-> Fast! 
+>  - Fast! 
 
 The speed of FileBrowse is up to 40% faster than that of the standard Windows File Browser
 
 
-> Smaller in size but powerful!
+> - Smaller in size but powerful!
 
-> More Features to be announced!
+
+> - More Features to be announced!
